@@ -1,0 +1,1 @@
+body{background-color:#97c4e9}.calc:hover{background:red;-webkit-animation:anim .4s linear infinite;animation:anim .4s linear infinite}@-webkit-keyframes anim{0%{opacity:1}50%{opacity:0}90%{opacity:0}to{opacity:1}}@keyframes anim{0%{opacity:1}50%{opacity:0}90%{opacity:0}to{opacity:1}}
